@@ -1,7 +1,7 @@
 {
-    "name": "logtail/monolog-logtail",
-    "description": "Logtail handler for Monolog",
-    "homepage": "https://github.com/logtail/logtail-php",
+    "name": "mondospedizioni/monolog-logtail",
+    "description": "Logtail handler for Monolog 3",
+    "homepage": "https://github.com/mondospedizioni/monolog-logtail",
     "type": "library",
     "license": "ISC",
     "keywords": [
